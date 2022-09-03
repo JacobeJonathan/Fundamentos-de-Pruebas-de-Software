@@ -141,7 +141,7 @@
 [Clase 27 Automatización de pruebas](#Clase-27-Automatización-de-pruebas)
 
 [Clase 28 Gherkin](#Clase-28-Gherkin)
-
+[clase 29 ](#Escribirpruebasunitariassegunmicrosoft)
 ## Clase 1 Introducción
 
 En este curso veremos diferentes formas, tips y estrategias de realizar pruebas de software. Todas las técnicas te ayudarán a mejorar la calidad de tu software.
@@ -1077,3 +1077,5 @@ Gherkin es un lenguaje de texto plano con estructura, usamos palabras que no son
 
 ![assets/img66.png](assets/img66.png)
 
+## Escribirpruebasunitariassegunmicrosoft
+- https://docs.microsoft.com/es-es/dotnet/core/testing/unit-testing-best-practices
